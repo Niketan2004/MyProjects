@@ -1,7 +1,6 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)]
 <h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
 <h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
 
