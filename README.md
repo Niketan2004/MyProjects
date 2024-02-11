@@ -1,6 +1,7 @@
-[![MasterHead]([https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg](https://thumbs.dreamstime.com/b/programming-concept-artificial-intelligence-neural-network-coding-different-languages-process-learning-software-development-242502700.jpg))]
+[![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)]
 <h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
 <h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
 
