@@ -1,28 +1,33 @@
-# Java Coding Journey
+[![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)]
+<h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
+<h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif")
 
-## Overview
-Welcome to my Java coding journey repository! Here, I'll be documenting my epic quest to master Java programming and conquer coding challenges.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
 
-## Recent Achievements
-I've recently completed two comprehensive Java courses, laying a solid foundation for my coding journey. Additionally, I've been actively working on improving my problem-solving skills:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niketan2004" alt="niketan2004" /></a> </p>
 
-- Completed two Java courses, expanding my knowledge base.
-- Solving as many questions to improve my Problem Solving Skill
+- 🌱 I’m currently learning **Java advance**
 
-  
-In addition, I've created two mini projects to apply my skills:
+- 👨‍💻 All of my projects are available at [https://github.com/Niketan2004/MyProjects/tree/main](https://github.com/Niketan2004/MyProjects/tree/main)
 
-1. **Guess the Number Game:** A fun game where the player guesses a randomly generated number within a specified range. The game offers different difficulty levels to challenge the player's guessing skills.
-   
-2. **Rock Paper Scissors Game:** An interactive game where the player competes against the computer by selecting Rock, Paper, or Scissors. The outcome is determined based on the classic rules of the game.
+- 💬 Ask me about **java,c,**
 
-## Goals
-My mission is simple: to become a Java Programmer, mastering the art of coding and building awesome projects.
-- Enhance my Java skills
-- Boost confidence in tackling coding challenges
-- Build an impressive portfolio of projects
+- 📫 How to reach me **niketankoyanden18@gmail.com**
 
-## Stay Connected
-Stay tuned for updates on my coding adventures! Connect with me on [www.linkedin.com/in/niketankoyande](#) and let's embark on this journey together.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niketankoyande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niketankoyande" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/niketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="niketan" height="30" width="40" /></a>
+<a href="https://instagram.com/koyandeniketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyandeniketan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codenik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codenik18" height="30" width="40" /></a>
+</p>
 
-Let's code like there's no tomorrow! 💻✨
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketan2004&show_icons=true&locale=en&layout=compact" alt="niketan2004" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketan2004&show_icons=true&locale=en" alt="niketan2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketan2004&" alt="niketan2004" /></p>
