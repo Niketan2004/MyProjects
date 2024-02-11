@@ -1,7 +1,7 @@
 [![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)]
 <h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
 <h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
-(img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif](https://www.bing.com/images/search?view=detailV2&ccid=A6Sl8DS%2F&id=0FBA36926F002D8AF0B41A1F53A7E793E813673B&thid=OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj&mediaurl=https%3A%2F%2Fmedia1.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&exph=360&expw=480&q=programmer+gif+image&simid=608039276673269483&form=IRPRST&ck=0F0833F905C47E4C0508199F61E8838B&selectedindex=29&itb=0&ajaxhist=0&ajaxserp=0&vt=0&sim=11)")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
 
