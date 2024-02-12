@@ -1,33 +1,30 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)]
-<h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
-<h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
-(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif")
+# Mini Projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
+Welcome to the Mini Projects repository! This repository contains various small projects implemented in Java.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niketan2004" alt="niketan2004" /></a> </p>
+## List of Projects
 
-- 🌱 I’m currently learning **Java advance**
+1. **Guess the Number Game**: A simple game where the player has to guess a randomly generated number within a specified range. The game offers different difficulty levels.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Niketan2004/MyProjects/tree/main](https://github.com/Niketan2004/MyProjects/tree/main)
+2. **Rock-Paper-Scissors Game**: A classic game where the user can play against the computer by choosing between rock, paper, or scissors.
 
-- 💬 Ask me about **java,c,**
+## How to Use
 
-- 📫 How to reach me **niketankoyanden18@gmail.com**
+1. Clone the repository to your local machine using the following command:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niketankoyande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niketankoyande" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/niketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="niketan" height="30" width="40" /></a>
-<a href="https://instagram.com/koyandeniketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyandeniketan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codenik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codenik18" height="30" width="40" /></a>
-</p>
+2. Navigate to the directory of the project you want to explore.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+3. Follow the instructions provided in the `README.md` file of each project to compile and run the code.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketan2004&show_icons=true&locale=en&layout=compact" alt="niketan2004" /></p>
+## Requirements
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketan2004&show_icons=true&locale=en" alt="niketan2004" /></p>
+- Java Development Kit (JDK)
+- Integrated Development Environment (IDE) or text editor (e.g., IntelliJ IDEA, Eclipse, VS Code)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketan2004&" alt="niketan2004" /></p>
+## Author
+
+[Niketan2004]
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE).
