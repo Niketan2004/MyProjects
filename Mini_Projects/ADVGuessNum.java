@@ -16,45 +16,52 @@ class GuessNum {
      }
 
      public void Result() {
-
+          int count = 0;
+          Scanner sc = new Scanner(System.in);
           while (chance != 0) {
-               int count = 0;
-               do {
 
-                    if (num > Rnum) {
-                         System.out.println("Your Choice is too Big,Please Enter A Smaller Number");
+               // do {
+                    System.out.println("Enter your Guessed Number:- ");
 
-                    } else {
-                         System.out.println("Your Choice is too Small, Please Enter a Greater number");
-                    }
-                    Scanner sc = new Scanner(System.in);
-                    num = sc.nextInt();
-                    count++;
-                    chance--;
-                    if (chance == 0) {
+                    try {
+                         num = sc.nextInt();
 
                          if (num == Rnum) {
-                              System.out.println("Congratulations!!! You got Right Answer!");
-                              System.out.println("Your Attempts are " + count);
+                              if (count == 0) {
+                                   System.out.println("Congratulation!!!!YOU GOT RIGHT ANSWER at FIRST TRY!!!!!!!!!!!!");
+                                             break;
+                              } else {
+                                   System.out.println("Congratulation!!!!YOU GOT RIGHT ANSWER...");
+                                   System.out.println("You took " + count + " Attempts");
+                                //  break;
+                              }
+                              break;
+                         } else if (num > Rnum) {
+                              System.out.println("Too HIGH!!!!!!");
+                         } else if (num < Rnum) {
+                              System.out.println("Too LOW!!!!!");
                          }
-                         System.out.println("*********GAME OVER !!!!!*********");
-                         System.out.println("~~~~~~~~~The Number you have Chosen is not Correct~~~~~~~~~");
-                         System.out.println("The Correct Number is  " + Rnum);
-                         System.out.println("Your Chances are Finished....Better Luck Next Time!");
+                         count++;
+                         chance--;
+                         if (chance == 0) {
 
-                         break;
-                    }
-               } while (num != Rnum);
+                              if (num == Rnum) {
+                                   System.out.println("Congratulations!!! You got Right Answer!");
+                                   System.out.println("Your Attempts are " + count);
+                                   break;
+                              }
+                              System.out.println("*********GAME OVER !!!!!*********");
+                              System.out.println("~~~~~~~~~The Number you have Chosen is not Correct~~~~~~~~~");
+                              System.out.println("The Correct Number is  " + Rnum);
+                              System.out.println("Your Chances are Finished....Better Luck Next Time!");
 
-               if (num == Rnum) {
-                    if (count == 0) {
-                         System.out.println("Congratulation!!!!YOU GOT RIGHT ANSWER at FIRST TRY!!!!!!!!!!!!");
-                    } else {
-                         System.out.println("Congratulations!!! You got Right Answer!");
-                         System.out.println("Your Attempts are " + count);
+                              break;
+                         }
+                    } catch (Exception e) {
+                         System.out.println("Enter a Number not Character!");
+                         sc.next();
                     }
-                    break;
-               }
+               // } while (num != Rnum);
           }
      }
 }
@@ -69,22 +76,43 @@ public class ADVGuessNum {
           System.out.println("******Please Select Difficulty level******\n");
           System.out.println(
                     " 1.Free Mode(Unlimited Chances)  \n 2.Easy mode (20 chances) \n 3.Medium Mode (10 Chances) \n 4.Hard Mode (5 Chances) \n 5.Extreme Mode (3 chances) ");
+          boolean exit = false;
+          do {
+               try {
+                    int n = sc.nextInt();
+                    switch (n) {
 
-          int n = sc.nextInt();
-          switch (n) {
+                         case 1:
+                              gnum.chance = Integer.MAX_VALUE;
+                              exit = true;
+                              break;
+                         case 2:
+                              gnum.chance = 20;
+                              exit = true;
+                              break;
+                         case 3:
+                              gnum.chance = 10;
+                              exit = true;
+                              break;
+                         case 4:
+                              gnum.chance = 5;
+                              exit = true;
+                              break;
+                         case 5:
+                              gnum.chance = 3;
+                              exit = true;
+                              break;
+                         default:
+                              System.out.println("Enter a Valid choice!");
+                              exit = true;
+                              break;
 
-               case 1 -> gnum.chance = 100000;
-               case 2 -> gnum.chance = 20;
-               case 3 -> gnum.chance = 10;
-               case 4 -> gnum.chance = 5;
-               case 5 -> gnum.chance = 3;
-               default -> System.out.println("Enter a Valid choice!");
-
-          }
-          System.out.println("----------Game is Started----------\n\n");
-
-          System.out.println("Enter number that you choosen:  ");
-          gnum.num = sc.nextInt();
+                    }
+               } catch (Exception e) {
+                    System.out.println("You have Entered Wrong Choice!..Please Enter a Valid Number");
+                    sc.nextLine();
+               }
+          } while (!exit);
           gnum.Result();
 
      }
