@@ -63,7 +63,9 @@ class GuessNum {
                     }
                // } while (num != Rnum);
           }
+          sc.close();
      }
+  
 }
 
 public class ADVGuessNum {
@@ -114,6 +116,6 @@ public class ADVGuessNum {
                }
           } while (!exit);
           gnum.Result();
-
+sc.close();
      }
 }
