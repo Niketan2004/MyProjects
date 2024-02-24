@@ -8,9 +8,11 @@ Welcome to the Mini Projects repository! This repository contains various small 
 
 2. **Rock-Paper-Scissors Game**: A classic game where the user can play against the computer by choosing between rock, paper, or scissors.
 
+3. **Library Management System**: This project implements a simple library management system allowing users to add books, issue books to customers, return books, and display available books.
+
 ## How to Use
 
-1. Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine.
 
 2. Navigate to the directory of the project you want to explore.
 
