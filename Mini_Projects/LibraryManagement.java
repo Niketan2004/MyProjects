@@ -142,5 +142,6 @@ public class LibraryManagement {
                }
 
           } while (!validChoice);
+          sc.close();
      }
 }
